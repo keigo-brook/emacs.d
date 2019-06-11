@@ -1,0 +1,9 @@
+[submodule "public_repos/flymake-posframe"]
+	path = public_repos/flymake-posframe
+	url = git@github.com:Ladicle/flymake-posframe.git
+[submodule "public_repos/hydra-posframe"]
+	path = public_repos/hydra-posframe
+	url = git@github.com:Ladicle/hydra-posframe
+[submodule "public_repos/point-history"]
+	path = public_repos/point-history
+	url = git@github.com:blue0513/point-history
